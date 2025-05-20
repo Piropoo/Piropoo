@@ -1,8 +1,8 @@
-# Hi! I'm Davi Pirôpo, a Full-Stack & Mobile Developer. 
+# Hi! I'm Davi Pirôpo, a Full-Stack & Mobile Developer. [![pt-BR](https://img.shields.io/badge/🇧🇷_Português-8A2BE2)](./README.pt-BR.md)
 
 - Started coding at 15, mastering Python (flask), JavaScript, and recently worked with modern stacks (React, Flutter, .NET).  
-- Built full systems (frontend + backend) and mobile apps with Flutter (payments, secure auth, C# APIs).
-- Led the end-to-end development of an app for scheduling medical appointments/services, renting physical spaces, and enrolling in courses with fintech features such as in-app payments and 2FA.
+- Built full systems (frontend + backend) and mobile apps with Flutter, C# .NET, flask, javascript and more others technologies.
+- Led the end-to-end development of a Flutter mobile app (including contributing to API endpoint creation with C#/.NET) for scheduling medical appointments/services, renting physical spaces, and enrolling in courses, featuring fintech capabilities such as in-app payments and two-factor authentication (2FA).
 
 ![Looking for Jobs](https://img.shields.io/badge/Open%20to%20Work-🚀-blue)
 <!--
