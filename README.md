@@ -1,8 +1,10 @@
-## Hi! I'm Davi Pirôpo, a Full-Stack & Mobile Developer.
+## Hi! I'm Davi Pirôpo, a Full-Stack & Mobile Developer. 
 
 - Started coding at 15, mastering Python (flask), JavaScript, and recently worked with modern stacks (React, Flutter, .NET).  
 - Built full systems (frontend + backend) and mobile apps with Flutter (payments, secure auth, C# APIs).
 - Led the end-to-end development of an app for scheduling medical appointments/services, renting physical spaces, and enrolling in courses with fintech features such as in-app payments and 2FA.
+
+![Looking for Jobs](https://img.shields.io/badge/Open%20to%20Work-🚀-blue)
 <!--
 ### **Key Skills**:  
 - **Frontend**: React, TypeScript, HTML/CSS (Grids, Sass).  
@@ -15,34 +17,30 @@
 -->
 
 ## <div align="center"> Skills: <div>
-<a href="https://github.com/Piropoo"><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Piropoo&show_icons=true&theme=dark&include_all_commits=true"></a>
-<div align="left">
-  <div>
-    <strong>Frontend:</strong>
-    <img alt="HTML5 logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> HTML5 |
-    <img alt="CSS3 logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> CSS3 |
-    <img alt="JavaScript logo" align="center"heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> JavaScript |
-    <img alt="TypeScript logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> TypeScript |
-    <img alt="React logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> React
-  </div>
-  <br>
-  <div>
-    <strong>Backend:</strong>
-    <img alt="Python logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> Python |
-    <img alt="Flask logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" /> Flask |
-    <img alt="NodeJS logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> Node.js |
-    <img alt="MySQL logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> MySQL |
-    <img alt="CSharp logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> CSharp |
-    <br><img alt="DotNET logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" /> <img alt="DotNET Core logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> .NET Framework e .NET Core 
-  </div>
-  <br>
-  <div>
-    <strong>Mobile:</strong>
-    <img alt="Flutter logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> Flutter |
-    <img alt="Dart logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> Dart |
-    <img alt="Firebase logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> Firebase |
-    <img alt="Android logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> Android |
-    <img alt="IOS logo" align="center" heigh="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> IOS
-  </div>
-</div>
+<a href="https://github.com/Piropoo"><img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=Piropoo&show_icons=true&theme=dark&include_all_commits=true"></a>
+
+<strong>Frontend:</strong>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+<br>
+
+<strong>Backend:</strong>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge)
+<br>
+<strong>Mobile:</strong>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge)
+
+
 
